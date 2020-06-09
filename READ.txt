@@ -1,0 +1,1 @@
+you need ffmpeg, opus, ytdl and discord.js for this to work
